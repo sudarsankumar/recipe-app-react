@@ -7,7 +7,7 @@ This is a simple react app that illustrates the pagination for content generated
 To clone this project :
 
 ```bash
-git clone "https://github.com/sudarsankumar/reciper-app-react.git"
+git clone "https://github.com/sudarsankumar/recipe-app-react.git"
 ```
 
 ## Demo link
